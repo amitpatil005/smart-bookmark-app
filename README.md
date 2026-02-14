@@ -90,8 +90,8 @@ This is implemented using Supabase `postgres_changes` listeners.
 ## ⚙️ Environment Variables
 
 The following environment variables are required:
-NEXT_PUBLIC_SUPABASE_URL= https://essqghbscgysfqyxasak.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY= sb_publishable_o_LB4tiRDlSQMNtZ4rhL4A_icWxKfei
+NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 These are configured in:
 
